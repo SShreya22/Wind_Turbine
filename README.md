@@ -1,4 +1,4 @@
-#### **WIND TURBINE POWER GENERATION FORECASTING**   
+## **WIND TURBINE POWER GENERATION FORECASTING** 
 
 Overview  
 This project focuses on forecasting wind turbine power generation based on various environmental and operational factors. The dataset is sourced from Kaggle and contains records related to wind speed, turbine efficiency, and power output.
